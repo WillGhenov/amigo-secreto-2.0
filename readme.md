@@ -1,3 +1,5 @@
+Em construção...
+
 **Sorteio de amigo secreto**
 
 Aplicativo desenvolvido para realizar sorteio de _amigo secreto_

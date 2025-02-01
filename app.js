@@ -33,6 +33,6 @@ function sortearAmigo() {
     } else {
         let indiceSorteado = Math.floor(Math.random() * amigos.length);
         nomeSorteado = amigos[indiceSorteado];
-        resultado.innerHTML= `O amigo secreto é ${nomeSorteado}`;
+        resultado.innerHTML= `O seu amigo secreto é ${nomeSorteado}!`;
     }
    }
