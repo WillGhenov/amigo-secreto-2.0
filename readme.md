@@ -10,4 +10,4 @@ Esse é o resultado do primeiro challenge do curso 'iniciante em programação' 
 
 Nesse programa foram utilizada as seguintes linguagens:
 
-JavaScript | HTML | CSS
+
